@@ -1,0 +1,8 @@
+could you write a web sales website by using html css and javascript
+
+could make this code as Responsive Web Design
+
+Also I want to delete items from my cart. Could you help fo that?
+
+I want to freeze the header part.
+
